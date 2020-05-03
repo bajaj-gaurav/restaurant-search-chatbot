@@ -1,0 +1,10 @@
+The link to youtube video: https://www.youtube.com/watch?v=RaoTQBWKKbU
+
+
+- The test stories are in stories_test.md
+- The lookup for location is in data/nlu/lookups/location.txt
+- The results folder contain the result of the test stories
+
+- Please set the gmail email id and pasword as environment variables before running this files. It expects environment variables to be set for:
+EMAIL_USER (for the username)
+EMAIL_PASSWORD (for the password)
